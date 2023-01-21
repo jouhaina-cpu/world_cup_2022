@@ -1,5 +1,8 @@
-# world_cup_2022
+# ApplicationWorldCup
 ---
+Application FIFA World Cup 2022
 
+# Frameworks
 * Spring boot
 * Angular
+
